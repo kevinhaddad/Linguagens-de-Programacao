@@ -1,5 +1,3 @@
-import Foundation
-
 var array: [Int] = []
 
 // Função para printar o array na tela
